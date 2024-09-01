@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/H-Keshk/faq-accordion-main)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [](https://h-keshk.github.io/faq-accordion-main/)
 
 ## My process
 
